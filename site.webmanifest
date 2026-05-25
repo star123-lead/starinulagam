@@ -1,0 +1,17 @@
+{
+  "name": "Thangamani Palanivel Portfolio",
+  "short_name": "Star Portfolio",
+  "description": "Full Stack Developer & UI/UX Designer Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e0c0a",
+  "theme_color": "#c9a84c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
